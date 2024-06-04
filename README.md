@@ -29,4 +29,4 @@ ElasticSearch的日志级别有INFO、ERROR、WARN几种，需要把`level`为ER
 3. 编写两个接口的实现类，重写其中的接口方法：利用BufferedReader和BufferedWriter
 4. Test功能，创建写入文件的实现类，调用其中的方法，将ERROR文件输出为"output.txt"文件
 
-![image-20240604221434262](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240604221434262.png)
+![img-1](./img/img-1.png)
